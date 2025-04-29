@@ -1,7 +1,6 @@
 import pandas as pd
 import streamlit as st
 import numpy as np
-from sklearn.metrics.pairwise import cosine_similarity
 import re
 import joblib
 
